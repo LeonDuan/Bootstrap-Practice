@@ -1,0 +1,19 @@
+html,
+body {
+    height: 100%;
+}
+
+/* cover */
+#cover {
+    background: #222 url('images/image1.jfif') center center no-repeat;
+    background-size: cover;
+    height: 100%;
+    color: white;
+    text-align: center;
+    display:flex;
+    align-items: center;
+}
+
+#cover-caption {
+    width: 100%;
+}
